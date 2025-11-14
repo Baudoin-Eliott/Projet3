@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\eliot\source\repos\ComprehensionAPIWindows\Main.cpp(180,73): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\eliot\source\repos\ComprehensionAPIWindows\Main.cpp(334,69): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  ComprehensionAPIWindows.vcxproj -> C:\Users\eliot\source\repos\ComprehensionAPIWindows\x64\Debug\ComprehensionAPIWindows.exe
