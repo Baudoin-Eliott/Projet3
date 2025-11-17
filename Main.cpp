@@ -235,6 +235,14 @@ LRESULT CALLBACK WindowProcedure(HWND hwnd, UINT message, WPARAM wParam, LPARAM 
         {
             ReadTextFromInput(hwnd);
         }
+        if (controlId == 1111) 
+        {
+            //algo de domif
+        }
+        if (controlId == 0111)
+        {
+            //telechargemebt
+        }
     }
     break;
 
